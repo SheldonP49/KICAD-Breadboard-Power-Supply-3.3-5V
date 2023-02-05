@@ -1,0 +1,7 @@
+*Gerber/*
+fp-info-cache
+*backups/*
+*.xml
+*.dxn
+Breadboard Power Supply Gerbers
+Breadboard Power Supply-backup
